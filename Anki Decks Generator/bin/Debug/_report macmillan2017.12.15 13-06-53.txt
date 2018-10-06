@@ -1,0 +1,37 @@
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Failure. Example was not found. Link: book
+Success. Page was parsed. Link: book
+Failure. Example was not found. Link: book_2
+Failure. Example was not found. Link: book_2
+Failure. Example was not found. Link: book_2
+Failure. Example was not found. Link: book_2
+Success. Page was parsed. Link: book_2
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Failure. Example was not found. Link: look
+Success. Page was parsed. Link: look
+Failure. Example was not found. Link: look_2
+Failure. Example was not found. Link: look_2
+Failure. Example was not found. Link: look_2
+Failure. Example was not found. Link: look_2
+Failure. Example was not found. Link: look_2
+Failure. Example was not found. Link: look_2
+Failure. Example was not found. Link: look_2
+Success. Page was parsed. Link: look_2
+Total: 32

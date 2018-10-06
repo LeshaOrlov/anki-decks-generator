@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <exemples>
+      <string>My Book</string>
+      <string>CookBook</string>
+      <string>I read book</string>
+    </exemples>
+    <Word>Book</Word>
+    <Transcript>/book/</Transcript>
+    <Translate>Книга</Translate>
+  </Card>
+  <Card>
+    <exemples>
+      <string>My eyes</string>
+      <string>Blue eyes</string>
+      <string>She closed eyes</string>
+    </exemples>
+    <Word>eye</Word>
+    <Transcript>/i/</Transcript>
+    <Translate>глаз</Translate>
+  </Card>
+</ArrayOfCard>

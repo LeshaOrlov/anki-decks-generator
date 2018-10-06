@@ -14,3 +14,27 @@ D:\code\deckgen\Anki Decks Generator\Anki Decks Generator\bin\Debug\HtmlAgilityP
 D:\code\deckgen\Anki Decks Generator\Anki Decks Generator\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\code\deckgen\Anki Decks Generator\Anki Decks Generator\obj\x86\Debug\deckgen.exe
 D:\code\deckgen\Anki Decks Generator\Anki Decks Generator\obj\x86\Debug\deckgen.pdb
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\deckgen.exe
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\deckgen.pdb
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\deckgen.exe
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\deckgen.pdb
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\Newtonsoft.Json.pdb
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\bin\Debug\Newtonsoft.Json.xml
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\Anki Decks Generator.csprojResolveAssemblyReference.cache
+D:\SourceCode\Open Source\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\Anki Decks Generator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\deckgen.exe
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\deckgen.pdb
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\Anki Decks Generator.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\Anki Decks Generator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\deckgen.exe
+C:\Users\Alex\Desktop\anki-decks-generator\Anki Decks Generator\obj\x86\Debug\deckgen.pdb

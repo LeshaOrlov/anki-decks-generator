@@ -1,0 +1,12 @@
+n	noun
+v	verb
+conj	conjunction
+adj	adjective
+det	determiner
+prep	preposition
+inf.	infinitive
+pron	pronoun
+adv	adverb
+mod	modal verb
+phrase	phrase
+phrase verb	phrasal verb

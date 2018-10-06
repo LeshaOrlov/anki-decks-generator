@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\bin\Debug\WorkBD.exe.config
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\bin\Debug\WorkBD.exe
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\bin\Debug\WorkBD.pdb
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.Form1.resources
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.Properties.Resources.resources
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.exe
+C:\Users\Alex\Desktop\anki-decks-generator\WorkBD\obj\Debug\WorkBD.pdb

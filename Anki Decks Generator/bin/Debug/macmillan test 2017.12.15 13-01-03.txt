@@ -1,0 +1,32 @@
+		book				a written work that is published, either as printed pages inside a cover or electronically	macmillan book test
+		book				a set of printed pages fastened together inside a cover	macmillan book test
+		book				one of the sections of a long book such as the Bible	macmillan book test
+		book				something that you write in, consisting of pages fastened together inside a cover	macmillan book test
+		book				a set of small objects, such as stamps, tickets, or matches, fastened together inside a paper cover	macmillan book test
+		book			do the books  (=record the necessary information in them)	records of the money that an organization or business has earned and spent	macmillan book test
+		book			on someone’s books	records of customers that use a company’s services	macmillan book test
+		book				something that is very remarkable, unusual or unexpected	macmillan book test
+		book				to buy tickets, or to arrange to have or use something at a particular time in the future	macmillan book test
+		book				to arrange for someone to perform or speak at a public event	macmillan book test
+		book			book someone for something	if the police book someone, they take them to the police station and make a record of their crime	macmillan book test
+		book			book someone for something	if a sports referee books a player who has broken the rules, the player’s name is recorded in an official book. In football, a player who is booked gets a yellow card	macmillan book test
+		look				to direct your eyes towards someone or something so that you can see them	macmillan look test
+		look				to search for someone or something	macmillan look test
+		look				to have a particular appearance	macmillan look test
+		look				to look as old as you really are	macmillan look test
+		look				to look different than you usually do, for example ill, tired, or unhappy	macmillan look test
+		look				to look as good as you can	macmillan look test
+		look			look at	to think about something in a particular way	macmillan look test
+		look				to seem to be something	macmillan look test
+		look			look certain/unlikely etc to do something	used for giving your opinion about how likely it is that something will happen or be true	macmillan look test
+		look				used when you want someone to look at something surprising or interesting	macmillan look test
+		look				used for making a suggestion or when you want someone to pay attention to what you are going to say	macmillan look test
+		look				used for giving an example that proves that what you are saying is true	macmillan look test
+		look			look north/south etc	if a building or room looks in a particular direction, it faces that direction	macmillan look test
+		look			have/take a look at	an act of looking at someone or something	macmillan look test
+		look			a look on someone’s face	an expression that you have on your face or in your eyes	macmillan look test
+		look			have a...look about/to it	the appearance that someone or something has	macmillan look test
+		look				the attractive appearance of someone, especially their face	macmillan look test
+		look				a particular style in clothes, furniture etc	macmillan look test
+		look			have a look for	an act of searching for someone or something	macmillan look test
+		look			take/have a look at something	an act of thinking carefully about a problem or situation	macmillan look test

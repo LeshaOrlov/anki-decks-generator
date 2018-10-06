@@ -96,7 +96,9 @@ namespace deckgen
                     input = new StreamReader(inputPath);
                     while (input.EndOfStream == false)
                     {
+                        //
                         var word = (new Regex("[^- 0-9a-zA-Z']+")).Replace(input.ReadLine(), "").Trim();
+                        //
                         if (wordlist.Contains(word) == false)
                         {
                             wordlist.Add(word);

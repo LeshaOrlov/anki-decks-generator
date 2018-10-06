@@ -17,8 +17,8 @@ namespace deckgen
                 reportStream.Write("Failure. Examples was not found. Link: " + link + "\n");
                 return;
             }
-
-            var gbrTranscription = document.DocumentNode.SelectSingleNode("//span[@class='PRON']");
+            //nhfycrhbgwbz
+            var gbrTranscription = document.DocumentNode.SelectSingleNode("//span[@class='PRON show_less']");
             var word = getText(document.DocumentNode.SelectSingleNode("//span[@class='BASE']"));
 
             var wordLabel = word.Replace(' ', '-');

@@ -42,7 +42,11 @@ namespace deckgen
         ~CardsStream()
         {
             input.Close();
-            output.Close();
+            if (output !=null)
+                {
+                output.Close();
+            }
+            
         }
     }
 }
