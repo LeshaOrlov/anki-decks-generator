@@ -9365,4 +9365,43 @@
     <Translate>зоопарк</Translate>
     <Frequency>0</Frequency>
   </Card>
+  <Card>
+    <exemples>
+      <string>a book by Nelson Mandela, entitled Long Walk to Freedom</string>
+      <string>Please open your books at page 25.</string>
+      <string>the Book of Job</string>
+      <string>Visitors to the building must sign the book.</string>
+      <string>You can buy stamps in books of ten.</string>
+      <string>do the books  (=record the necessary information in them): Alfred’s job was to do the books at the end of each month.</string>
+      <string>on someone’s books: a theatrical agency with dozens of top actors on its books</string>
+      <string>As weddings go, theirs was one for the books.</string>
+    </exemples>
+    <Word>book</Word>
+    <PartOfSpeech>noun</PartOfSpeech>
+    <Transcript>/bʊk/</Transcript>
+    <Translate>книга</Translate>
+    <Frequency>0</Frequency>
+  </Card>
+  <Card>
+    <exemples>
+      <string>Looking closely you could see traces of grey in her hair.</string>
+      <string>I don’t know where the keys are. I’ve looked everywhere.</string>
+      <string>The room looked a complete mess.</string>
+      <string>Richard doesn’t look his age at all.</string>
+      <string>He didn’t look himself when I saw him yesterday.</string>
+      <string>It was a first date, and Emily wanted to look her best.</string>
+      <string>look at: John thinks that success is being rich, but I don’t look at it like that.</string>
+      <string>That new film looks good.</string>
+      <string>look certain/unlikely etc to do something: He looks certain to win the competition.</string>
+      <string>Look! There’s John!</string>
+      <string>Look, why don’t we meet up for a drink and talk about it then?</string>
+      <string>It’s not a good idea to travel without insurance: look what happened to Bill.</string>
+      <string>look north/south etc: He strolled towards the huge windows that looked south across London.</string>
+    </exemples>
+    <Word>look</Word>
+    <PartOfSpeech>verb</PartOfSpeech>
+    <Transcript>/lʊk/</Transcript>
+    <Translate>смотреть</Translate>
+    <Frequency>0</Frequency>
+  </Card>
 </ArrayOfCard>
